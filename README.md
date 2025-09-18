@@ -7,7 +7,6 @@
 别担心，本文将为你提供几种**安全可靠的代充方案**，使用支付宝和微信支付就能轻松升级ChatGPT Plus，无需国外信用卡，最快只要3分钟就能完成！
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6ec74bb-08a5-4b96-865b-a38fa16ffbcb" />
 
-
 ## 为什么选择ChatGPT Plus？
 
 在深入了解代充教程前，先简单说说Plus会员的价值：
